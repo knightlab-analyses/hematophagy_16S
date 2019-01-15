@@ -1,6 +1,5 @@
-# hematophagy_16S
-Manuscript
-==========
+Hematophagy manuscript
+======================
 
 Is there convergence of gut microbes in blood-feeding vertebrates?
 
